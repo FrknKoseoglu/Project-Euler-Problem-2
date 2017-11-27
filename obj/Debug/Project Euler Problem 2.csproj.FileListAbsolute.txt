@@ -1,0 +1,6 @@
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.exe.config
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.exe
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.pdb
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.csprojResolveAssemblyReference.cache
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.exe
+c:\users\programcı herif\documents\visual studio 2015\Projects\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.pdb
